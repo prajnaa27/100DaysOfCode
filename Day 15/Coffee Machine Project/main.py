@@ -1,5 +1,3 @@
-from importlib.resources import is_resource
-from statistics import quantiles
 
 MENU = {
     "espresso": {
